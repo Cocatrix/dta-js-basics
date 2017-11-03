@@ -1,0 +1,1 @@
+console.log(cocatrix.getContacts()[0].firstName);
